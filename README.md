@@ -1,4 +1,3 @@
-# project1
-This is my first repo<br>
+# My portfolio
+This is my portfolio<br>
 project creator= Vinit Rana<br>
-hello world
